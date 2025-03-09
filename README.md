@@ -28,7 +28,7 @@
    ```sh
    cd VisualDataStructure
    ```
-3. Open `App.html` in a web browser.
+3. Open `list.html` in a web browser.
 
 ## Usage
 1. Select a data structure from the navigation menu.
