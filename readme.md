@@ -17,9 +17,9 @@ The application supports visualization of the following data structures:
 - **Custom-built JavaScript modules** for data structure manipulation
 
 ## Usage
-1. Open `App.html` in a web browser.
-2. Select a data structure from the navigation menu.
-3. Perform operations such as **Create, Insert, Search, Remove**, and see them animated in real-time.
+1. Open `list.html` in a web browser.
+3. Select a data structure from the navigation menu.
+4. Perform operations such as **Create, Insert, Search, Remove**, and see them animated in real-time.
 
 ## Why I Built This
 Understanding data structures can be difficult without visual aid. This tool was developed to bridge that gap by offering clear, animated explanations for each operation.
