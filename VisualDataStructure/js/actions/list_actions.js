@@ -1,4 +1,4 @@
-//@author Steven Kester Yuwono
+//@author Srinivas DM
 //actions panel related files for List VisuAlgo
 var actionsWidth = 150;
 var statusCodetraceWidth = 420;
