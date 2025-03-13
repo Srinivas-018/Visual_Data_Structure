@@ -1,10 +1,4 @@
-// @author  Koh Zi Chun
-// Graph Widget. currently in a mess
-// add keyboard shortcut for animation
-
-// Ivan: Most (if not all) functions will be changed to accomodate new library (D3.js)
-//       Only the algorithm & high-level design will be retained
-
+// @author  Srinivas DM
 /* 
  * TODO: Currently animation stuffs (play, pause, etc.) is tied to GraphWidget,
  *       which means visualizations not related to graphs cannot be animated
