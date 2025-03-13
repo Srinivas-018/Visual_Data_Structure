@@ -1,4 +1,4 @@
-// @author Steven Kester Yuwono
+// @author Srinivas DM
 // Defines a List object; keeps implementation of List internally and interact with GraphWidget to display List visualizations
 // Also includes Stack, Queue, Doubly List, and Double-Ended Queue
 var BACK_EDGE_CONST = 5000;
